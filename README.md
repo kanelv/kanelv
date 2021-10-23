@@ -3,8 +3,8 @@
 ## Long time no see
 I forgot my GitHub account for a long time to focus on a following things:
 - [x] get the M.Eng
-- [] work as a freelance software engineer
-- [] work as an unofficial member of a startup
+- [ ] work as a freelance software engineer
+- [ ] work as an unofficial member of a startup
 
 ## Goal
 - 🔭 I’m currently working on an interesting project regarding Smart Grid.
