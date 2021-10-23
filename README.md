@@ -12,7 +12,7 @@ I forgot my GitHub account for a long time to focus on a following things:
 
 ## Regrets
 
-Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself
+Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself.
 
 As time goes by, I hope to push more things for myself and contribute to the community.
 
