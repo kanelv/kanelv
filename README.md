@@ -8,8 +8,9 @@ I forgot my GitHub account for a long time to focus on a following things:
 
 ## Goal
 - 🔭 I’m currently working on an interesting project regarding Smart Grid.
-- 🌱 I’m currently learning to get AWS SAA-C02.
-
+- 🌱 I’m currently learning to get AWS SAA-C02. I am pleasure to share with you guys what I have followed for learning [AWS SAA-C02](https://github.com/kanelv/AWS-SAA-C02-Course).
+- 🌱 I’m currently improving algorithms knowledge and shaping my coding style day by day following based on [a good plan shared by a man](https://github.com/kanelv/coding-interview-university/tree/master).
+- 🤔 I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But know I have nothing... I will be updated soon
 ## Regrets
 
 Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself
@@ -29,6 +30,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cuonglvrepvn@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+references:
+Complete list of github markdown emoji markup
+https://gist.github.com/rxaviers/7360908
 -->
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanelv&layout=compact&hide=html" alt="kanelv" /></div>
 <br />
