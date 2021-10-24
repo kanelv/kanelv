@@ -3,8 +3,8 @@
 ## Long time no see
 I forgot my GitHub account for a long time to focus on a following things:
 - [x] get the M.Eng
-- [] work as a freelance software engineer
-- [] work as an unofficial member of a startup
+- [ ] work as a freelance software engineer
+- [ ] work as an unofficial member of a startup
 
 ## Goal
 - 🔭 I’m currently working on an interesting project regarding Smart Grid.
@@ -13,7 +13,7 @@ I forgot my GitHub account for a long time to focus on a following things:
 - 🤔 I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But know I have nothing... I will be updated soon
 ## Regrets
 
-Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself
+Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself.
 
 As time goes by, I hope to push more things for myself and contribute to the community.
 
