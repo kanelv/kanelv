@@ -43,7 +43,11 @@ I forgot my GitHub account for a long time to focus on a following things:
 Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself for learning new things to shape myself personally. That will help me improve myself.
 
 As time goes by, I hope to push more things for myself and contribute to the community.
-
+### ⚙️ GitHub Analytics
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanelv&layout=compact&hide=html&theme=tokyonight" alt="kanelv" /></div>
+<br />
+<br />
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanelv&show_icons=true&theme=tokyonight" alt="kanelv" /></div>
 <!--
 **kanelv/kanelv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -63,7 +67,3 @@ https://gist.github.com/rxaviers/7360908
 markdown badges
 https://github.com/Ileriayo/markdown-badges
 -->
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanelv&layout=compact&hide=html" alt="kanelv" /></div>
-<br />
-<br />
-<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=kanelv&show_icons=true" alt="kanelv" /></div>
