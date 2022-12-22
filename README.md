@@ -1,7 +1,14 @@
 # Nice to meet you 👋
+<a href="https://app.daily.dev/kanedailydev">
+  <img style="float: right;" src="./devcard.svg" width="400" alt="Cuong Le's Dev Card"/>
+</a>
+
+---
 ### 👨🏻‍💻 About me
 - 📫 How to reach me: cuonglvrepvn@gmail.com
+<!-- ![Cuong Le's Dev Card >](./devcard.svg "Cuong Le's Dev Card") -->
 
+---
 ### 🛠 Tech Stack
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=flat&logo=scala&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)&nbsp;
@@ -27,12 +34,14 @@
 
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) -->
 <!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) -->
+---
 ### 🗓️ Long time no see
 I forgot my GitHub account for a long time to focus on a following things:
 - [x] get the M.Eng
 - [x] work as a freelance software engineer
 - [x] work as an unofficial member of a startup
 
+---
 ### 🎯 Current Targets
 - 🔭 I’m currently working on an interesting project regarding Smart Grid.
 - 🌱 I’m currently learning to get AWS SAA-C02. I am pleasure to share with you guys what I have followed for learning [AWS SAA-C02](https://github.com/kanelv/AWS-SAA-C02-Course).
