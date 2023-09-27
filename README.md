@@ -6,8 +6,10 @@
 --->
 
 ### 👨🏻‍💻 About me
-- 🏢   I'm working as a Remote Full-time Backend Engineer for a company based in Tokyo - Japan
-- 🌱   I’m currently learning new frameworks and technologies to become a better engineer
+- 🏢   I'm working as a Remote Full-time Backend Engineer for a company providing energy management solutions based in Tokyo - Japan
+- 🌱   I’m pursuing to get AWS SAA-C03. I am pleased to share with you what I have followed for learning [AWS SAA-C03](https://github.com/kanelv/AWS-SAA-C02-Course).
+- 🌱   I’m improving algorithms knowledge and shaping my coding style daily based on [a good plan shared by a man](https://github.com/kanelv/coding-interview-university/tree/master).
+- 🤔 I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But now I have nothing... I will be updated soon.
 - 📫   How to reach me: cuonglvrepvn@gmail.com
 
 ### 🛠 Tech Stack (Languages & Tools)
@@ -41,12 +43,13 @@
 <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) -->
 <!-- ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) -->
 
+<!---
 ### 🎯 Current Targets
-- 🔭 I’m currently working on an interesting project regarding Smart Grid.
+- 🔭 I’m currently working on an exciting project regarding Smart Grid.
 - 🌱 I’m currently learning to get AWS SAA-C03. I am pleased to share with you guys what I have followed for learning [AWS SAA-C03](https://github.com/kanelv/AWS-SAA-C02-Course).
-- 🌱 I’m currently improving algorithms knowledge and shaping my coding style day by day based on [a good plan shared by a man](https://github.com/kanelv/coding-interview-university/tree/master).
+- 🌱 I’m improving algorithms knowledge and shaping my coding style daily based on [a good plan shared by a man](https://github.com/kanelv/coding-interview-university/tree/master).
 - 🤔 I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But now I have nothing... I will be updated soon.
-
+--->
 <!---
 ### 💪 Get Back
 Now, I have just completed the M.Eng. I want to come back here to build some of my projects and track myself to learn new things to shape myself personally. That will help me improve myself.
