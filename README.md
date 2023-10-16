@@ -9,7 +9,7 @@
 - 🏢   I'm working as a Remote Full-time Backend Engineer for a company providing energy management solutions based in Tokyo - Japan
 - 🌱   I’m pursuing to get AWS SAA-C03. I am pleased to share with you what I have followed for learning [AWS SAA-C03](https://github.com/kanelv/AWS-SAA-C02-Course).
 - 🌱   I’m improving algorithms knowledge and shaping my coding style daily based on [a good plan shared by a man](https://github.com/kanelv/coding-interview-university/tree/master).
-- 🤔 I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But now I have nothing... I will be updated soon.
+- 🤔   I will try to write my blog about my works and how I enjoy my own life at [here](https://kanelv.github.io/). But now I have nothing... I will be updated soon.
 - 📫   How to reach me: cuonglvrepvn@gmail.com
 
 ### 🛠 Tech Stack (Languages & Tools)
